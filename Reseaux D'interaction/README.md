@@ -2,7 +2,7 @@
 
 `Introduction: `
 
-Ici nous allons analyser un réseau de collaboration scientifique en informatique pour de mesurer un certain nombre de caractéristiques qui constituent ce réseau.  On extrait le réseau de DBLP, disponible sur SNAP(Stanford Network Analysis Project). 
+Ici nous allons analyser un réseau de collaboration scientifique en informatique pour mesurer un certain nombre de caractéristiques qui constituent ce réseau.  On extrait le réseau de DBLP, disponible sur SNAP(Stanford Network Analysis Project). 
 Pour se faire, on utilise GraphStream qui permet de mesurer de nombreuses caractéristiques d'un réseau. La plupart de ces mesures sont implantées comme des méthodes statiques dans la classe Toolkit.
 
 _`1- Lecture des données avec GraphStream :`_
